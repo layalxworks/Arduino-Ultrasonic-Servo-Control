@@ -47,9 +47,11 @@ A simple Arduino project using an **HC-SR04 ultrasonic sensor** to detect nearby
 5. If the distance is **> 10 cm**, the servo returns to **0°**.
 6. The distance is printed to the Serial Monitor at 9600 baud.
 
+
 ## Demo
 
-🎥 **YouTube Demo:** Add your YouTube video link here.
+🎥 **YouTube Demo:**  
+https://www.youtube.com/watch?v=u6cNqhZgPTE
 
 ## Experiment
 
