@@ -8,8 +8,7 @@ A simple Arduino project using an **HC-SR04 ultrasonic sensor** to detect nearby
 - Object farther than **10 cm** → servo returns to **0°**
 - Distance is displayed in the Arduino Serial Monitor.
 
-![Project Setup](images/project.jpg)
-
+![Project Setup](project.jpg)
 ## Components
 
 - Arduino UNO
